@@ -1,0 +1,12 @@
+.idea
+.vscode
+.DS_Store
+__pycache__
+*.py[co]
+.python-version
+db.sqlite3
+env
+
+# data
+media
+data
